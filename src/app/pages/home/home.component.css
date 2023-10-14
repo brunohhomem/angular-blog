@@ -8,7 +8,6 @@
 
 header {
   margin-top: 15px;
-  border: 1px solid pink;
   display: flex;
   justify-content: center;
 }
