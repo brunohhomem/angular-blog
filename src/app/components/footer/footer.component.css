@@ -1,0 +1,24 @@
+.container__footer {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 135px;
+  font-family: "segoe UI";
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+}
+
+.container__footer > p {
+  font-size: 12px;
+}
+
+.container__footer > hr {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.container__footer > p > a {
+  text-decoration: none;
+  color: lightskyblue;
+}

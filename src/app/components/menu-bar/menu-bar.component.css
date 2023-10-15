@@ -4,9 +4,16 @@
 .container__menu-bar > ul {
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 .container__menu-bar > ul > li {
   margin-right: 20px;
   list-style: none;
+}
+
+.container__separator > hr {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  width: 100vw;
 }
