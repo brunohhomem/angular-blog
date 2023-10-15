@@ -1,25 +1,28 @@
 export const dataFake = [
   {
-    "id":1,
-    "photo": "https://miro.medium.com/v2/resize:fit:1400/0*MGGK5bqMTtobxsAS",
+    "id":"1",
+    "photoCover": "https://miro.medium.com/v2/resize:fit:1400/0*MGGK5bqMTtobxsAS",
     "title": "ANGULAR'S TEAM.",
     "description":"HAUSHDAUSHDUHAUDHUAHSDUHAUSDHUAHRUAUHSDJKAHSDJKHASHUASDANSDMABSDHAUSDHA. HAUSHDAUSHDUHAUDHUAHSDUHAUSDHUAHRUAUHSDJKAHSDJKHASHUASDANSDMABSDHAUSDHA.HAUSHDAUSHDUHAUDHUAHSDUHAUSDHUAHRUAUHSDJKAHSDJKHASHUASDANSDMABSDHAUSDHA"
   }
-  // ,
-  // {
-  //   "id":2,
-  //   "photo": "",
-  //   "title": "",
-  //   "description":""
-  // },  {
-  //   "id":3,
-  //   "photo": "",
-  //   "title": "",
-  //   "description":""
-  // },  {
-  //   "id":4,
-  //   "photo": "",
-  //   "title": "",
-  //   "description":""
-  // },
+  ,
+  {
+    "id":"2",
+    "photoCover": "https://vidafullstack.com.br/wp-content/uploads/2021/07/versao-12-angular.png",
+    "title": "ANGULAR AGORA É BLUEANGULAR.",
+    "description":"HAUSHDAUSHDUHAUDHUAHSDUHAUSDHUAHRUAUHSDJKAHSDJKHASHUASDANSDMABSDHAUSDHA. HAUSHDAUSHDUHAUDHUAHSDUHAUSDHUAHRUAUHSDJKAHSDJKHASHUASDANSDMABSDHAUSDHA."
+  },
+  {
+    "id":"3",
+    "photoCover": "https://miro.medium.com/v2/resize:fit:1400/1*bMgQ8MhbnQexpqHgIgBJPA.png",
+    "title": "ANGULAR AGORA É SPACEANGULAR.",
+    "description":"HAUSHDAUSHDUHAUDHUAHSDUHAUSDHUAHRUAUHSDJKAHSDJKHASHUASDANSDMABSDHAUSDHA. HAUSHDAUSHDUHAUDHUAHSDUHAUSDHUAHRUAUHSDJKAHSDJKHASHUASDANSDMABSDHAUSDHA."
+  },
+  {
+    "id":"4",
+
+    "photoCover": "https://i.ytimg.com/vi/3qBXWUpoPHo/maxresdefault.jpg",
+    "title": "ANGULAR AGORA É NOOBANGULAR.",
+    "description":"HAUSHDAUSHDUHAUDHUAHSDUHAUSDHUAHRUAUHSDJKAHSDJKHASHUASDANSDMABSDHAUSDHA. HAUSHDAUSHDUHAUDHUAHSDUHAUSDHUAHRUAUHSDJKAHSDJKHASHUASDANSDMABSDHAUSDHA."
+  },
 ]
